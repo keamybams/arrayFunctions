@@ -1,5 +1,5 @@
 # arrayFunctions
-JavaScript array functions
+<em> JavaScript array functions <em>
 
 Array length: the 'length' property returns the size of the array. let size = fruits.length.
 
@@ -25,3 +25,28 @@ Splicing and Slicing: splice() adds or removes items from an array. slice() crea
 Automatic toString(): JavaScript automatically converts an array to a comma-separated string when a primitive value is expected.
 
 All javascript objects have a toString() method.
+
+
+JAVASCRIPT FUNCTION
+
+A javaScript function is a block of code designed for a specific task and is executed when invoked. Example function calculating the product of two parameters: function myFunction(p1, p2) { return p1 * p2; }
+
+Function syntax: Functions are defined with the function keyword, followed by a name and parentheses.
+Function names can include letters, digits, underscores, and dollar signs.
+Parameters are listed inside parentheses, and the function code is enclosed in curly brackets.
+
+Function Invocation: Functions are invoked (called) when an event occurs, from JavaScript code, or automatically (self-invoked).
+
+Function Return: A function stops executing when it reaches a return statement.
+The return value is sent back to the caller, allowing for results to be used elsewhere.
+
+Benefits of Functions: Functions facilitate code reuse, allowing the same code to be used multiple times with different arguments.
+
+The () Operator: The () operator is used to invoke (call) a function, passing arguments as values.
+Incorrect parameters or missing parentheses can lead to incorrect results.
+
+Functions as Variables: Functions can be used like variables in formulas, assignments, and calculations.
+
+Local Variables: Variables declared within a function are local to that function.
+Local variables can only be accessed within the function where they are declared
+
